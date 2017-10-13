@@ -1,0 +1,23 @@
+{
+  "name": "progecttoreact",
+  "version": "1.0.0",
+  "description": "My first test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dihtyar/react.git"
+  },
+  "keywords": [
+    "test",
+    "project"
+  ],
+  "author": "Bogdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dihtyar/react/issues"
+  },
+  "homepage": "https://github.com/dihtyar/react#readme"
+}
