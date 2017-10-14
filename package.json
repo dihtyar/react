@@ -4,6 +4,9 @@
   "description": "My first test project",
   "main": "index.js",
   "scripts": {
+    "scripts": {
+      "build": "webpack"
+    },
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,6 +27,7 @@
     "jquery": "^3.2.1"
   },
   "devDependencies": {
+    "eslint": "^4.9.0",
     "webpack": "^3.7.1"
   }
 }
